@@ -1,1 +1,2 @@
+sudo apt install apache2 python3
 apache-airflow-providers-databricks
